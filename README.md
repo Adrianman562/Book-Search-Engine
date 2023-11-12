@@ -1,4 +1,4 @@
-# Google Book Search MERN Stack Challenge
+# Google Book Search
 
 ## Summary
 
